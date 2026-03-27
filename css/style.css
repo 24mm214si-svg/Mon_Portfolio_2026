@@ -94,7 +94,7 @@ a.active::after {
     align-items: center;
     gap: 5rem;
     text-align: center;
-    
+    margin: 1.3rem auto;  
 }
 
 .hero img{
@@ -103,7 +103,6 @@ a.active::after {
     object-fit: cover;
     border-radius: 50%;
     border: 8px solid var(--violet-doux);
-
 }
 
 .hero h1{
